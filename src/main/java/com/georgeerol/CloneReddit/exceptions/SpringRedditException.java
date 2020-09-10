@@ -1,4 +1,4 @@
-package com.georgeerol.CloneReddit.model;
+package com.georgeerol.CloneReddit.exceptions;
 
 /**
  * Created by George Fouche on 8/25/20.

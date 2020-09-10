@@ -1,5 +1,7 @@
 package com.georgeerol.CloneReddit.model;
 
+import com.georgeerol.CloneReddit.exceptions.SpringRedditException;
+
 import java.util.Arrays;
 
 /**
